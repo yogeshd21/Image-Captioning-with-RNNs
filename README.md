@@ -24,4 +24,4 @@ GLOVE word embedding model: https://www.kaggle.com/datasets/incorpes/glove6b200d
         ├── val
         ├── annotations_val
     ├── ImageCaptioning_Code.py
-    └── Model_Ans.csv
+    └── Model_Ans.csv #Output CSV after Run iwth BLEU scores.
